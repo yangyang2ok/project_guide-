@@ -68,6 +68,13 @@ Welcome to my project portfolio! Here I document selected data projects where I 
 
 ---
 
+
+Repo Name	Purpose
+revenue-performance-dashboard	Tableau or Power BI revenue insights dashboard
+inventory-optimization-model	Python/SQL for supply chain modeling
+customer-lifetime-segmentation	RFM/LTV clustering project
+ab-test-pricing-strategy	A/B test evaluation with Python/visualization
+
 ## 📬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)  
