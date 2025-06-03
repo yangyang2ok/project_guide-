@@ -37,4 +37,43 @@ Welcome to my project portfolio! Here I document selected end-to-end data projec
 
 | Project                                | Tools                                | Description                                                                                                                                          |
 | -------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📊 **Amazon Sales EDA**
+| 📊 **Amazon Sales EDA**                | Python (pandas, seaborn, matplotlib) | Conducted exploratory analysis on discount impact, rating trends, and sales distribution. Exported cleaned data as Tableau-ready CSV.                |
+| ✅ **Tableau Prep Scripts (in Python)** | pandas                               | Created a pipeline to clean and preprocess raw CSVs into tidy datasets, performing currency conversion, string cleaning, and missing value handling. |
+
+---
+
+## 📊 Tableau Visualizations
+
+- [Amazon Sales Monitor Dashboard](#) *(Live link coming soon)*
+- [Top Product KPI Card with Parameter Filter](#)
+- [Pie Chart of Discount vs. Price Composition](#)
+
+> *Built with dynamic parameters, filters, KPI cards, and clean layouts for executive-ready reporting.*
+
+---
+
+## 🧰 Tools & Stack
+
+- **Languages**: Python, SQL  
+- **Libraries**: pandas, matplotlib, seaborn  
+- **BI Tools**: Tableau, Power BI  
+- **Database**: MySQL, PostgreSQL  
+- **Other**: Excel, GitHub, JupyterLab
+
+---
+
+## 📢 Related Repositories
+
+| Repo                            | Purpose                                                                    |
+| ------------------------------- | -------------------------------------------------------------------------- |
+| `revenue-performance-dashboard` | Tableau dashboard with KPI cards, parameters, and product category filters |
+| `amazon-data-cleaning-pipeline` | Python scripts to prepare e-commerce data for BI use                       |
+| `eda-retail-insights`           | Jupyter Notebook with EDA visualizations on Amazon retail data             |
+
+---
+
+## 📬 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yang-dai-diane/)  
+- [GitHub](https://github.com/daiyang0823)  
+- Email: [yang.dai@example.com](mailto:yang.dai@example.com)
