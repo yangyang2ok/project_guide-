@@ -90,6 +90,5 @@ Welcome to my project portfolio! Here I document selected end-to-end data projec
 
 ## 📬 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yang-dai-diane/)  
-- [GitHub](https://github.com/daiyang0823)  
-- Email: yang.dai@example.com
+- [LinkedIn](https://www.linkedin.com/in/yang-dai-diane/) 
+- Email: daiyang882@gmail.com
